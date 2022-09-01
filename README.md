@@ -4,4 +4,4 @@ NPM     : 2106721004
 
 Class   : KKI
 
-Hobby   : Badminton
+Hobby   : Reading
